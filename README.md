@@ -201,7 +201,11 @@ Please refer to [the modern Open MCT API](https://nasa.github.io/openmct/documen
 | [openmct-as-a-dependency](https://github.com/unlikelyzero/openmct-as-a-dependency) | An advanced guide for users on how to build, develop, and test Open MCT when it's used as a dependency. |
 # Autores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) 
+
+|  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) 
+
+|  [<img loading="lazy" src="https://https://m.facebook.com/photo.php?fbid=1621071015392161&id=100024678335675&set=a.105493550283256&eav=AfbDOhTZRZktvGav9onUrx1qEGG3CBcH1ngLjaHkPscjaiE5LegPp9aFzWtrxe65g9s&paipv=0&source=11&viewer=61557707023583 width=115><br><sub>Edson Simão</sub>](https://github.com/alexfelipe) |
 | :---: | :---: | :---: |
 
 <p align="center">
