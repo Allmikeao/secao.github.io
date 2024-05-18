@@ -1,8 +1,7 @@
 # PROSEC Cacuaco [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![prosec](https://codecov.io/gh/nasa/openmct/branch/master/graph/badge.svg?token=7DQIipp3ej)](https://codecov.io/gh/nasa/openmct) 
-[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/b2e34b17/openmct) 
 
 
-Open MCT (Open Mission Control Technologies) is a next-generation mission control framework for visualization of data on desktop and mobile devices. It is developed at NASA's Ames Research Center, and is being used by NASA for data analysis of spacecraft missions, as well as planning and operation of experimental rover systems. As a generalizable and open source framework, Open MCT could be used as the basis for building applications for planning, operation, and analysis of any systems producing telemetry data.
+Texto.
 
 > [!NOTE]
 > Please visit our [Official Site](https://nasa.github.io/openmct/) and [Getting Started Guide](https://nasa.github.io/openmct/getting-started/)
@@ -203,9 +202,9 @@ Please refer to [the modern Open MCT API](https://nasa.github.io/openmct/documen
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) 
 
-|  [<img loading="lazy" src="https://www.facebook.com/100047892713633/posts/557760499163702/?substory_index=1445842599254241&app=fbl width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) 
+|  [<img src="https://www.facebook.com/100047892713633/posts/557760499163702/?substory_index=1445842599254241&app=fbl width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) 
 
-|  [<img loading="lazy" src="httpshttps://www.facebook.com/100024678335675/posts/1621071015392161/?substory_index=813378224030424&app=fbl width=115><br><sub>Edson Simão</sub>](https://github.com/alexfelipe) |
+|  [<img src="https://www.facebook.com/100024678335675/posts/1621071015392161/?substory_index=813378224030424&app=fbl width=115><br><sub>Edson Simão</sub>](https://github.com/alexfelipe) |
 | :---: | :---: | :---: |
 
 <p align="center">
