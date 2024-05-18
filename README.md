@@ -54,9 +54,9 @@ O usuário deverá preencher o campo, detalhando tudo que houve
 ```
 
 > [!IMPORTANT]
-> Para que a sua ocorrência seja válida, terá de confirmar a reCAPTCHA, depois da reCAPTCHA confirmar de que és um usuário humano, a sua ocorrência será enviada.
+> Para que a sua ocorrência seja válida, terá de confirmar a [`reCAPTCHA`], depois da [`reCAPTCHA`](http://) confirmar de que és um usuário humano, a sua ocorrência será enviada.
 
->Para que não haja erros, preencha os campos com os dados precisos por cada campo.
+Para que não haja erros, preencha os campos com os dados precisos por cada campo.
 
 Open MCT is built using [`npm`](http://npmjs.com/) and [`webpack`](https://webpack.js.org/).
 
