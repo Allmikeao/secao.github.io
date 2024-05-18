@@ -41,9 +41,22 @@ O usuário deverá preencher o campo com o seu email caso tenha
 ```
 O usuário deverá preencher o campo, informando o assunto ou títular a sua denúncia 
 ```
+5. Data e hora da ocorrência :
+
+```
+O usuário deverá preencher o campo, selecionando a hora e a data da ocorrência 
+```
+
+6. Messagem: 
+
+```
+O usuário deverá preencher o campo, detalhando tudo que houve
+```
 
 > [!IMPORTANT]
-> Open MCT is now running, and can be accessed by pointing a web browser at [http://localhost:8080/](http://localhost:8080/)
+> Para que a sua ocorrência seja válida, terá de confirmar a reCAPTCHA, depois da reCAPTCHA confirmar de que és um usuário humano, a sua ocorrência será enviada.
+
+>Para que não haja erros, preencha os campos com os dados precisos por cada campo.
 
 Open MCT is built using [`npm`](http://npmjs.com/) and [`webpack`](https://webpack.js.org/).
 
