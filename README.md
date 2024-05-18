@@ -13,7 +13,7 @@ Texto.
 
 ## Caso de uso
 
-Para usar o [PROSEC] é muito fácil, rápido e eficaz. É disponibilizado um formulário para que os usuários relatem das ocorrências criminosas ligado aos crimes de [`Roubo`] e [`Furto`] de veículos.
+Para usar o [PROSEC] é muito fácil, rápido e eficaz. É disponibilizado um formulário para que os usuários relatem das ocorrências criminosas ligado aos crimes de `Roubo` e `Furto` de veículos.
 
 Siga os passos abaixo para o caso de uso.:
 
