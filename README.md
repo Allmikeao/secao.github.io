@@ -5,7 +5,7 @@ Texto.
 
 
 > [!NOTE]
-> Por favor visite o nosso [`Site Official`](http://prosec.totalh.net/) ou fale connosco apartir do nosso [`E-mail`](inbox.mikelange@gmail.com)
+> Por favor visite o nosso [`Site`](http://prosec.totalh.net/) ou fale connosco apartir do nosso [`E-mail`](inbox.mikelange@gmail.com)
 
 
 Once you've created something amazing with Open MCT, showcase your work in our GitHub Discussions [Show and Tell](https://github.com/nasa/openmct/discussions/categories/show-and-tell) section. We love seeing unique and wonderful implementations of Open MCT!
