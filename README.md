@@ -1,4 +1,4 @@
-# PROSEC Cacuaco [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![prosec](https://codecov.io/gh/nasa/openmct/branch/master/graph/badge.svg?token=7DQIipp3ej)](https://codecov.io/gh/nasa/openmct) 
+o# PROSEC Cacuaco [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![prosec](https://codecov.io/gh/nasa/openmct/branch/master/graph/badge.svg?token=7DQIipp3ej)](https://codecov.io/gh/nasa/openmct) 
 
 
 Texto.
@@ -9,6 +9,15 @@ Texto.
  <img src="https://user-images.githubusercontent.com/105131652/186226781-c57b7eca-b9b8-44fd-9439-05f1383bd079.jpg" width="200" /> 
 
 </p>
+# Autores
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) 
+
+|[<img src="https://www.facebook.com/100047892713633/posts/557760499163702/?substory_index=1445842599254241&app=fbl width=115><br><sub>Guilherme Lima</sub>]
+
+|  [<img src="https://www.facebook.com/100024678335675/posts/1621071015392161/?substory_index=813378224030424&app=fbl width=115><br><sub>Edson Simão</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |
+
 > [!NOTE]
 > Please visit our [Official Site](https://nasa.github.io/openmct/) and [Getting Started Guide](https://nasa.github.io/openmct/getting-started/)
 
