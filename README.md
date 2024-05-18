@@ -1,14 +1,8 @@
-o# PROSEC Cacuaco [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![prosec](https://codecov.io/gh/nasa/openmct/branch/master/graph/badge.svg?token=7DQIipp3ej)](https://codecov.io/gh/nasa/openmct) 
+# PROSEC Cacuaco [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![prosec](https://codecov.io/gh/nasa/openmct/branch/master/graph/badge.svg?token=7DQIipp3ej)](https://codecov.io/gh/nasa/openmct) 
 
 
 Texto.
-<p float="left">
 
- <img src="https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg" width="200" />
-
- <img src="https://user-images.githubusercontent.com/105131652/186226781-c57b7eca-b9b8-44fd-9439-05f1383bd079.jpg" width="200" /> 
-
-</p>
 # Autores
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) 
@@ -19,7 +13,7 @@ Texto.
 | :---: | :---: | :---: |
 
 > [!NOTE]
-> Please visit our [Official Site](https://nasa.github.io/openmct/) and [Getting Started Guide](https://nasa.github.io/openmct/getting-started/)
+> Por favor visite o nosso [Site Official](http://prosec.totalh.net/) and [Getting Started Guide](http://prosec.totalh.net/)
 
 
 Once you've created something amazing with Open MCT, showcase your work in our GitHub Discussions [Show and Tell](https://github.com/nasa/openmct/discussions/categories/show-and-tell) section. We love seeing unique and wonderful implementations of Open MCT!
