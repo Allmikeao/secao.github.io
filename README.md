@@ -8,15 +8,14 @@ Texto.
 > Por favor visite o nosso [`Site`](http://prosec.totalh.net/) ou fale connosco apartir do nosso [`E-mail`](inbox.mikelange@gmail.com)
 
 
-Once you've created something amazing with Open MCT, showcase your work in our GitHub Discussions [Show and Tell](https://github.com/nasa/openmct/discussions/categories/show-and-tell) section. We love seeing unique and wonderful implementations of Open MCT!
-
 ![Screen Shot 2022-11-23 at 9 51 36 AM](//https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRUKE_Zs50G920x5eX5N1_Fwbi9oBQkcLLEqxJYfccHZN8lx-btuomRWDUWiwiqf_cFbs&usqp=CAU%22)
 
 
 ## Caso de uso
 
-Building and running Open MCT in your local dev environment is very easy. Be sure you have [Git](https://git-scm.com/downloads) and [Node.js](https://nodejs.org/) installed, then follow the directions below. Need additional information? Check out the [Getting Started](https://nasa.github.io/openmct/getting-started/) page on our website.
-(These instructions assume you are installing as a non-root user; developers have [reported issues](https://github.com/nasa/openmct/issues/1151) running these steps with root privileges.)
+Para usar o [PROSEC] é muito fácil, rápido e eficaz. É disponibilizado um formulário para que os usuários relatem das ocorrências criminosas ligado aos crimes de [`Roubo`] e [`Furto`] de veículos.
+
+Siga os passos abaixo para o caso de uso.:
 
 1. Nome:
 
