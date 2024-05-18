@@ -10,7 +10,7 @@ Texto.
 
 Once you've created something amazing with Open MCT, showcase your work in our GitHub Discussions [Show and Tell](https://github.com/nasa/openmct/discussions/categories/show-and-tell) section. We love seeing unique and wonderful implementations of Open MCT!
 
-![Screen Shot 2022-11-23 at 9 51 36 AM](https://https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRUKE_Zs50G920x5eX5N1_Fwbi9oBQkcLLEqxJYfccHZN8lx-btuomRWDUWiwiqf_cFbs&usqp=CAU%22)
+![Screen Shot 2022-11-23 at 9 51 36 AM](//https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRUKE_Zs50G920x5eX5N1_Fwbi9oBQkcLLEqxJYfccHZN8lx-btuomRWDUWiwiqf_cFbs&usqp=CAU%22)
 
 
 ## Caso de uso
@@ -54,7 +54,7 @@ O usuário deverá preencher o campo, detalhando tudo que houve
 ```
 
 > [!IMPORTANT]
-> Para que a sua ocorrência seja válida, terá de confirmar a [`reCAPTCHA`], depois da [`reCAPTCHA`](http://) confirmar de que és um usuário humano, a sua ocorrência será enviada.
+> Para que a sua ocorrência seja válida, terá de confirmar a [`reCAPTCHA`](HTTPS://), depois da [`reCAPTCHA`](http://) confirmar de que és um usuário humano, a sua ocorrência será enviada.
 
 Para que não haja erros, preencha os campos com os dados precisos por cada campo.
 
