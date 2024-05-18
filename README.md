@@ -13,7 +13,7 @@ Texto.
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) 
 
-|[<img src="https://www.facebook.com/100047892713633/posts/557760499163702/?substory_index=1445842599254241&app=fbl width=115><br><sub>Guilherme Lima</sub>]
+|[<img src="https://www.facebook.com/photo.php?fbid=1621071015392161&set=a.105493550283256&type=3&mibextid=rS40aB7S9Ucbxw6v width=115><br><sub>Guilherme Lima</sub>]
 
 |  [<img src="https://www.facebook.com/100024678335675/posts/1621071015392161/?substory_index=813378224030424&app=fbl width=115><br><sub>Edson Simão</sub>](https://github.com/alexfelipe) |
 | :---: | :---: | :---: |
