@@ -217,7 +217,7 @@ Please refer to [the modern Open MCT API](https://nasa.github.io/openmct/documen
 
 |  [<img src="https://www.facebook.com/100047892713633/posts/557760499163702/?substory_index=1445842599254241&app=fbl width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) 
 
-|  [<img src="https://www.facebook.com/100024678335675/posts/1621071015392161/?substory_index=813378224030424&app=fbl width=115><br><sub>Edson Simão</sub>](https://github.com/alexfelipe) |
+|  [<img src="https://i.ibb.co/px3pVpq/Pics-Art-06-29-01-00-04.jpg" alt="Pics-Art-06-29-01-00-04" border="0"><br><sub>Mike L'ange</sub>](https://github.com/alexfelipe) |
 | :---: | :---: | :---: |
 
 <p align="center">
