@@ -161,19 +161,7 @@ documentation, may presume an understanding of these terms.
   tree is a domain object.
 * _identifier_: A tuple consisting of a namespace and a key, which together uniquely
   identifies a domain object.
-* _model_: The persistent state associated with a domain object. A domain
-  object's model is a JavaScript object which can be converted to JSON
-  without losing information (that is, it contains no methods.)
-* _name_: When used as an object property, this refers to the human-readable
-  name for a thing. (Most often used in the context of extensions, domain
-  object models, or other similar application-specific objects.)
-* _navigation_: Refers to the current state of the application with respect
-  to the user's expressed interest in a specific domain object; e.g. when
-  a user clicks on a domain object in the tree, they are _navigating_ to
-  it, and it is thereafter considered the _navigated_ object (until the
-  user makes another such choice.)
-* _namespace_: A name used to identify a persistence store. A running open MCT 
-application could potentially use multiple persistence stores, with the 
+ 
 
 ## Open MCT v2.0.0
 Support for our legacy bundle-based API, and the libraries that it was built on (like Angular 1.x), have now been removed entirely from this repository.
@@ -186,15 +174,6 @@ You might still be using legacy API if your source code
 * Contains files named bundle.js, or bundle.json,
 * Makes calls to `openmct.$injector()`, or `openmct.$angular`,
 * Makes calls to `openmct.legacyRegistry`, `openmct.legacyExtension`, or `openmct.legacyBundle`.
-
-
-### What should I do if I am using legacy API?
-Please refer to [the modern Open MCT API](https://nasa.github.io/openmct/documentation/). Post any questions to the [Discussions section](https://github.com/nasa/openmct/discussions) of the Open MCT GitHub repository.
-
-## Related Repos
-
-> [!NOTE]
-> Although Open MCT functions as a standalone project, it is primarily an extensible framework intended to be used as a dependency with users' own plugins and packaging. Furthermore, Open MCT is intended to be used with an HTTP server such as Apache or Nginx. A great example of hosting Open MCT with Apache is `openmct-quickstart` and can be found in the table below.
 
 ## Testes
 
