@@ -194,6 +194,8 @@ Os nossos testes foram feitas usando os navegadores modernos.
 <img src="https://i.ibb.co/SRmLGXf/1718726549566.jpg" alt="1718726549566"  style="border-radius: 10px;" width= 100 height=100 alt="Sua imagem">Edson Simão <br>
 <img src="https://i.ibb.co/ctQT3ZY/1718726610256.jpg" alt="1718726610256" width="100" height="100" border="0">  Daniel Miguel <br>
 <img src="https://i.ibb.co/px3pVpq/Pics-Art-06-29-01-00-04.jpg" alt="Mike" width="100" height="100" border="0"> Mike L'ange
+
+![Mike L'ange](https://i.ibb.co/ctQT3ZY/1718726610256.jpg" alt="1718726610256?border-radius=10px "Autor")
 </div>
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
