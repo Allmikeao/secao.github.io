@@ -181,9 +181,9 @@ Os nossos testes foram feitas usando os navegadores modernos.
 
 | Navegador | Descrição |
 | --- | --- |
-| [Chrome](https://github.com/nasa/openmct-tutorial) | A great place for beginners to learn how to use and extend Open MCT. |
-| [openmct-quickstart](https://github.com/scottbell/openmct-quickstart) | A working example of Open MCT integrated with Apache HTTP server, YAMCS telemetry, and Couch DB for persistence.
-| [Open MCT YAMCS Plugin](https://github.com/akhenry/openmct-yamcs) | Plugin for integrating YAMCS telemetry and command server with Open MCT. |
+| [Chrome](https://github.com/nasa/openmct-tutorial) | 100% |
+| [Firefox](https://github.com/scottbell/openmct-quickstart) | 90%
+| [Edge ](https://github.com/akhenry/openmct-yamcs) | 90% |
 | [openmct-performance](https://github.com/unlikelyzero/openmct-performance) | Resources for performance testing Open MCT. |
 | [openmct-as-a-dependency](https://github.com/unlikelyzero/openmct-as-a-dependency) | An advanced guide for users on how to build, develop, and test Open MCT when it's used as a dependency. |
 # Autores
