@@ -54,9 +54,7 @@ O usuário deverá preencher o campo, detalhando tudo que houve
 
 Para que não haja erros, preencha os campos com os dados precisos por cada campo.
 
-Open MCT is built using [`npm`](http://npmjs.com/) and [`webpack`](https://webpack.js.org/).
-
-## Documentation
+## Documentação
 
 Documentation is available on the [Open MCT website](https://nasa.github.io/openmct/documentation/).
 
