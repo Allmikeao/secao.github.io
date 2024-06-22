@@ -216,9 +216,5 @@ Please refer to [the modern Open MCT API](https://nasa.github.io/openmct/documen
 <img src="https://i.ibb.co/px3pVpq/Pics-Art-06-29-01-00-04.jpg" alt="Mike" width="100" height="100" border="0"> Mike L'ange
 </div>
 
-2) Stars do projeto:
-
-Código gerado:
-
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 Resultado
