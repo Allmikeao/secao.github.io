@@ -197,6 +197,7 @@ Os nossos testes foram feitas usando os navegadores modernos.
 
 ![Mike L'ange](https://i.ibb.co/ctQT3ZY/1718726610256.jpg" alt="1718726610256?border-radius=10px "Autor")
 </div>
+![Texto alternativo](https://i.imgur.com/your-image.jpg?border-radius=10px "Título da imagem")
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 Resultado
