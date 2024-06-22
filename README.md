@@ -94,9 +94,6 @@ written as plugins.
 
 For information on writing plugins, please see [our API documentation](./API.md#plugins).
 
-## Tests
-
-Our automated test coverage comes in the form of unit, e2e, visual, performance, and security tests. 
 
 ### Unit Tests
 Unit Tests are written for [Jasmine](https://jasmine.github.io/api/edge/global)
@@ -198,6 +195,10 @@ Please refer to [the modern Open MCT API](https://nasa.github.io/openmct/documen
 
 > [!NOTE]
 > Although Open MCT functions as a standalone project, it is primarily an extensible framework intended to be used as a dependency with users' own plugins and packaging. Furthermore, Open MCT is intended to be used with an HTTP server such as Apache or Nginx. A great example of hosting Open MCT with Apache is `openmct-quickstart` and can be found in the table below.
+
+## Testes
+
+Os nossos testes foram feitas usando os navegadores modernos. 
 
 | Repository | Description |
 | --- | --- |
