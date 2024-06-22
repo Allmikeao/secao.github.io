@@ -182,10 +182,11 @@ Os nossos testes foram feitas usando os navegadores modernos.
 | Navegador | Descrição |
 | --- | --- |
 | [Chrome](https://github.com/nasa/openmct-tutorial) | 100% |
-| [Firefox](https://github.com/scottbell/openmct-quickstart) | 90%
+| [Firefox](https://github.com/scottbell/openmct-quickstart) | 80.5%
 | [Edge ](https://github.com/akhenry/openmct-yamcs) | 90% |
-| [openmct-performance](https://github.com/unlikelyzero/openmct-performance) | Resources for performance testing Open MCT. |
-| [openmct-as-a-dependency](https://github.com/unlikelyzero/openmct-as-a-dependency) | An advanced guide for users on how to build, develop, and test Open MCT when it's used as a dependency. |
+| [Opera](https://github.com/unlikelyzero/openmct-performance) | 92.7%|
+| [Brave](https://github.com/unlikelyzero/openmct-as-a-dependency) | 99% |
+
 # Autores
 
 <div style='display: inline; align-items: center;'> 
